@@ -13,5 +13,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-echo "Hello, world, this is Ara!"
+echo "Hello, world, this is Ara, version 2!"
 echo "The time is $(date)."
